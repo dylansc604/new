@@ -1,0 +1,189 @@
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+  
+}
+
+h1 {
+    font-size: 5.625em;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 2;
+   ;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin-bottom: 20px;
+    
+   
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr {
+   border: dotted #e4e4e4 6px;
+   border-bottom: none;
+   width: 4%;
+   margin: 100px auto 100px auto;
+   
+} 
+
+
+
+.top-container {
+   
+    background-color:#EAFDFC;
+    position: relative;
+    padding-top: 100px;
+    
+    
+   
+}
+
+.middle-container {
+   
+  
+}
+
+.profile {
+    margin: 50px auto 50px auto;
+}
+
+.profiletext {
+    width: 20%;
+    margin: auto;
+    font-weight: 600;
+}
+
+.bottom-container {
+   background-color: #66BFBF;
+   padding-top: 50px;
+   padding-bottom: 20px;
+   margin-top: 50px;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #11999E;
+    font-weight: 600;
+}
+
+.learn {
+    text-decoration: underline
+}
+
+.top-cloud {
+    position: absolute;
+    right: 650px;
+    top: 50px; 
+       
+    }
+
+.bottom-cloud {
+    position: absolute;
+    bottom: 400px;
+    left: 550px;
+
+}
+
+.mountain {
+    margin-top: 125px;
+}
+
+
+
+.skillphoto {
+    width: 25%;
+    border: solid rgb(228, 228, 228);
+    border-width: 3px;    
+    border-radius: 100%;
+    overflow: hidden  
+}
+
+.footer-link {
+    color: #11999E;
+    display: inline;
+    margin: 5px;
+}
+
+.footer-link:hover {
+    color:white;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+      
+}
+
+.electricalimg {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.codingimg {
+    width: 15%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.myphoto {
+    height: 200px;
+    width: 200px;
+}
+
+.me {
+    color:#EAF6F6;
+    margin-top: 30px;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #caefab;
+	background:linear-gradient(to bottom, #77d42a 5%, #5cb811 100%);
+	background-color:#77d42a;
+	border-radius:3px;
+	border:2px solid #268a16;
+	display:inline-block;
+	cursor:pointer;
+	color:#306108;
+	font-family:Trebuchet MS;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #aade7c;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #5cb811 5%, #77d42a 100%);
+	background-color:#5cb811;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.getintouch {
+    margin-bottom: 30px;
+}
+
+.ppp {
+    width: 50%;
+    margin: 20px auto 40px;
+}
